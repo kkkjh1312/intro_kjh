@@ -1,0 +1,12 @@
+/* common */
+.section{height: 100vh; padding:150px 0; box-sizing: border-box;} 
+.section h2{text-align: center;}
+dd{margin: 0;}
+body,html{font-family: 'Noto Sans KR', sans-serif; font-size: 10px;}
+
+@font-face {
+    font-family: 'S-CoreDream-9Black';
+    src: url('//cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-9Black.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
